@@ -1,0 +1,33 @@
+## ARMA MODEL
+For (p,q)=(2,1), the ARMA model ar/ma p values are well above 0.05 so does not seem to be a good fit.
+However, for (p,q)=(1,1) (indicated by the acf plot), the ar/ma p values both drop to zero
+
+## ARIMA MODEL
+For (p,d,q)=(5,1,1), ARIMA model ar/ma p values well exceed 0.05
+For (p,d,q)=(1,1,1), ar/ma p values are zero so seems a better fit? The forecast graph look
+comparable across (p,d,q) configurations.
+
+## GARCH MODEL
+For (p,q)=(2,1) p-value for lag 2 is well above 0.05
+
+CONCLUSIONS
+Based on your time series analysis, would you buy the yen now?
+
+Both the ARMA and ARIMA models predict positive (but declining) returns for the yen in the near term, 
+suggesting a potentially good buy moment.
+
+Is the risk of the yen expected to increase or decrease?
+
+Given near-term forecast of increasing volatility, the yen risk is expected to increase modestly.
+
+Based on the model evaluation, would you feel confident in using these models for trading?
+
+No, the p-values for the suggested p,q orders are not robust. Interestingly (p,q) orders of (1,1)
+seem to produce robust p-values.
+
+## LINEAR REGRESSION
+
+CONCLUSIONS
+The regression performs better on out-of-sample data with an rmse of 0.41 vs 0.71 for the in-sample 
+data. However the r2 scores for both in-sample and out-of-sample data are very low. The scatter plots
+including the regression lines also suggest minimal correlation between Lagged_Returns and Daily_Returns.
