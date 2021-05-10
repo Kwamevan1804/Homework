@@ -1,0 +1,25 @@
+The following dependencies need to be installed in your environment prior to launching wallet.py:
+
+import subprocess
+import json
+from dotenv import load_dotenv
+import os
+from web3 import Web3, HTTPProvider
+from web3.middleware import geth_poa_middleware
+from eth_account import Account
+from bit import PrivateKeyTestnet, PrivateKey, wif_to_key
+from bit.network import NetworkAPI
+
+In addition, you need to install the hd-wallet-derive PHP library. Execute the following commands in Terminal:
+
+git clone https://github.com/dan-da/hd-wallet-derive
+cd hd-wallet-derive
+curl https://getcomposer.org/installer -o installer.php
+php installer.php
+php composer.phar install
+
+With the hd-wallet-derive library installed, you will use it as a command-line tool from Python using the subprocess module mentioned above. You can create a symlink to facilitate hd-wallet-derive Python integration.
+
+Your mnemonic can be stored in a .env file and read via loan_dotenv.
+
+To use Web3, make sure a local network connection has been established, eg through Ganache.
