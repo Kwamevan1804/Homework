@@ -9,7 +9,7 @@ This repo contains all Assignments and Projects from the Columbia Engineering Fi
 # **Table of Contents**
 
 ## Tasks
-1. [Fintech Case Study](https://github.com/ymali001/Apple_Card)
+1. [Fintech Case Study](https://github.com/Kwamevan1804/Assignment-1-Case-study.git)
 2. [Python](https://github.com/ymali001/Python) 
 3. [Pandas](https://github.com/ymali001/A-Whale-Off-the-Port-folio)
 4. [APIs](https://github.com/ymali001/API)
