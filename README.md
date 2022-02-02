@@ -4,7 +4,7 @@
 </p>
 
 ## **Overview**
-This repo contains all Assignments and Projects from the Columbia Engineereing Fintech Program
+This repo contains all Assignments and Projects from the Columbia Engineering Fintech Program
 
 # **Table of Contents**
 
