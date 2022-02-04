@@ -10,7 +10,7 @@ This repo contains all Assignments and Projects from the Columbia Engineering Fi
 
 ## Tasks
 1. [Fintech Case Study](Assignment-1-Case-study-main/README.md)
-2. [Python](https://github.com/ymali001/Python) 
+2. [Python](Unit_3_Python_homework) 
 3. [Pandas](https://github.com/ymali001/A-Whale-Off-the-Port-folio)
 4. [APIs](https://github.com/ymali001/API)
 5. [Data Visualization](https://github.com/ymali001/PyViz)
