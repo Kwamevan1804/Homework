@@ -19,7 +19,7 @@ This repo contains all Assignments and Projects from the Columbia Engineering Fi
 8. [Natural Language Processing](Unit_12_NLP)
 9. [AWX-Lex](unit13-challenge-master)
 10. [Deep Learning](Unit_14_DeepLearning_homework) 
-11. [BlockChain](https://github.com/ymali001/BlockChain)
+11. [BlockChain](Unit_18_Blockchain)
 12. [Blockchain Using Python](https://github.com/ymali001/BlockChain-Python)
 13. [Smart Contracts Solidity](https://gist.github.com/ymali001/e16ae6a7e6671c8003510893c3b7931a)
 14. [Advanced Solidity](https://gist.github.com/ymali001/3975022ed3c6e9315f363e679fc8ae96)
