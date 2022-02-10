@@ -13,7 +13,7 @@ This repo contains all Assignments and Projects from the Columbia Engineering Fi
 2. [Python](Unit_3_Python_homework) 
 3. [Pandas](Unit_4_Pandas_homework/)
 4. [APIs](Unit_5_API_homework)
-5. [Data Visualization](https://github.com/ymali001/PyViz)
+5. [Data Visualization](Unit_6_Pyviz_homework)
 6. [SQL](https://github.com/manchester9/fintech/tree/master/07-sql)
 7. [Time Series Analysis](https://github.com/ymali001/Time_Series)
 8. [Machine Learning](https://github.com/ymali001/Machine_Learning_Classification) 
