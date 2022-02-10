@@ -8,23 +8,22 @@ This repo contains all Assignments and Projects from the Columbia Engineering Fi
 
 # **Table of Contents**
 
-## Tasks
+## Homework
 1. [Fintech Case Study](Assignment-1-Case-study-main/README.md)
 2. [Python](Unit_3_Python_homework) 
 3. [Pandas](Unit_4_Pandas_homework/)
 4. [APIs](Unit_5_API_homework)
 5. [Data Visualization](Unit_6_Pyviz_homework)
-6. [SQL](https://github.com/manchester9/fintech/tree/master/07-sql)
-7. [Time Series Analysis](https://github.com/ymali001/Time_Series)
-8. [Machine Learning](https://github.com/ymali001/Machine_Learning_Classification) 
-9. [Natural Language Processing](https://github.com/ymali001/Natural_Language_Processing)
-10. [AWX-Lex](https://github.com/ymali001/AWS)
-11. [Deep Learning](https://github.com/ymali001/DeepLearning) 
-12. [BlockChain](https://github.com/ymali001/BlockChain)
-13. [Blockchain Using Python](https://github.com/ymali001/BlockChain-Python)
-14. [Smart Contracts Solidity](https://gist.github.com/ymali001/e16ae6a7e6671c8003510893c3b7931a)
-15. [Advanced Solidity](https://gist.github.com/ymali001/3975022ed3c6e9315f363e679fc8ae96)
-16. [Decentralized Apps2](https://github.com/manchester9/fintech/tree/master/18-decentralized_apps)
+6. [Time Series Analysis](https://github.com/ymali001/Time_Series)
+7. [Machine Learning](https://github.com/ymali001/Machine_Learning_Classification) 
+8. [Natural Language Processing](https://github.com/ymali001/Natural_Language_Processing)
+9. [AWX-Lex](https://github.com/ymali001/AWS)
+10. [Deep Learning](https://github.com/ymali001/DeepLearning) 
+11. [BlockChain](https://github.com/ymali001/BlockChain)
+12. [Blockchain Using Python](https://github.com/ymali001/BlockChain-Python)
+13. [Smart Contracts Solidity](https://gist.github.com/ymali001/e16ae6a7e6671c8003510893c3b7931a)
+14. [Advanced Solidity](https://gist.github.com/ymali001/3975022ed3c6e9315f363e679fc8ae96)
+15. [Decentralized Apps2](https://github.com/manchester9/fintech/tree/master/18-decentralized_apps)
 [Decentralized Apps (Under Construction)](https://github.com/ymali001/Decentralized-Apps)
 
 ## Projects
