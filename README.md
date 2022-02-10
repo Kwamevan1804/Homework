@@ -15,7 +15,7 @@ This repo contains all Assignments and Projects from the Columbia Engineering Fi
 4. [APIs](Unit_5_API_homework)
 5. [Data Visualization](Unit_6_Pyviz_homework)
 6. [Time Series Analysis](Unit_10_TimeSeries_homework)
-7. [Machine Learning](https://github.com/ymali001/Machine_Learning_Classification) 
+7. [Machine Learning](Unit_11_Classification_homework) 
 8. [Natural Language Processing](https://github.com/ymali001/Natural_Language_Processing)
 9. [AWX-Lex](https://github.com/ymali001/AWS)
 10. [Deep Learning](https://github.com/ymali001/DeepLearning) 
