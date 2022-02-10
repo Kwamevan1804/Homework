@@ -17,7 +17,7 @@ This repo contains all Assignments and Projects from the Columbia Engineering Fi
 6. [Time Series Analysis](Unit_10_TimeSeries_homework)
 7. [Machine Learning](Unit_11_Classification_homework) 
 8. [Natural Language Processing](Unit_12_NLP)
-9. [AWX-Lex](https://github.com/ymali001/AWS)
+9. [AWX-Lex](unit13-challenge/ClusteringCrypto)
 10. [Deep Learning](https://github.com/ymali001/DeepLearning) 
 11. [BlockChain](https://github.com/ymali001/BlockChain)
 12. [Blockchain Using Python](https://github.com/ymali001/BlockChain-Python)
