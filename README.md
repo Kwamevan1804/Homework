@@ -22,7 +22,7 @@ This repo contains all Assignments and Projects from the Columbia Engineering Fi
 11. [BlockChain](Unit_18_Blockchain)
 12. [Blockchain Using Python](Unit_19_BlockchainPython)
 13. [Smart Contracts Solidity](Unit_20_Solidity)
-14. [Advanced Solidity](https://gist.github.com/ymali001/3975022ed3c6e9315f363e679fc8ae96)
+14. [Advanced Solidity](Unit_21%20Advanced%20Solidity)
 15. [Decentralized Apps2](https://github.com/manchester9/fintech/tree/master/18-decentralized_apps)
 [Decentralized Apps (Under Construction)](https://github.com/ymali001/Decentralized-Apps)
 
