@@ -25,7 +25,7 @@ This repo contains all Assignments and Projects from the Columbia Engineering Fi
 14. [Advanced Solidity](Unit_21%20Advanced%20Solidity)
 
 ## Projects
-1. [US RealEstate Post COVID-19](https://github.com/valleriia/Project1-US-Real-Estate-Analysis)
+1. [US RealEstate Post COVID-19](https://github.com/patelk1214/Project_Group5)
 2. [Algorithmic Trading using Machine Learning](https://github.com/HyuntaeKim0813/Project_2)
 3. [Virgo-DeFi](https://github.com/Virgo-Defi/Code)
 
