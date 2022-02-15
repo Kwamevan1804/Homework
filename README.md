@@ -26,7 +26,7 @@ This repo contains all Assignments and Projects from the Columbia Engineering Fi
 
 ## Projects
 1. [Project 1 Group 5: Ketomus Option Trading Application](https://github.com/patelk1214/Project_Group5)
-2. [Algorithmic Trading using Machine Learning](https://github.com/HyuntaeKim0813/Project_2)
+2. [Corporate Bond Rating Change Prediction Model](https://github.com/saponew/James-Bond)
 3. [Virgo-DeFi](https://github.com/Virgo-Defi/Code)
 
 ## Reading
