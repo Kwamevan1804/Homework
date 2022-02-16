@@ -25,7 +25,7 @@ This repo contains all Assignments and Projects from the Columbia Engineering Fi
 14. [Advanced Solidity](Unit_21%20Advanced%20Solidity)
 
 ## Projects
-1. [Project 1 Group 5: Ketomus Option Trading Application](https://github.com/patelk1214/Project_Group5)
+1. [Project 1 Group 5: Ketomus Option Trading Application](Project_Group5-main)
 2. [Corporate Bond Rating Change Prediction Model](James-Bond-main)
 3. [Virgo-DeFi](https://github.com/Virgo-Defi/Code)
 
