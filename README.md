@@ -27,7 +27,7 @@ This repo contains all Assignments and Projects from the Columbia Engineering Fi
 ## Projects
 1. [Project 1 Group 5: Ketomus Option Trading Application](Project_Group5-main)
 2. [Corporate Bond Rating Change Prediction Model](James-Bond-main)
-3. [Virgo-DeFi](https://github.com/Virgo-Defi/Code)
+3. [Virgo-DeFi](Code-main)
 
 ## Reading
 1. [Intro to Python](https://drive.google.com/file/d/1ySX6Nh4yChpMdF8A5cJbotBthvGLuQGF/view?usp=sharing)
